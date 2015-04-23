@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+	autocrlf = false
+	bare = false
+
+[user]
+	name = Ben Mz
+	email = x62en@users.noreply.github.com
+[remote "origin"]
+	url = git@github.com:x62en/Kb00m.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
