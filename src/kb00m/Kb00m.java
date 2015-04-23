@@ -18,7 +18,7 @@ package kb00m;
  * Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, 
  * MA  02111-1307, USA.
  * 
- * Author      : benoit Malchrowicz
+ * Author      : Ben Mz
  * Contact Mail: bmz at certiwise dot com
  * Softwares   : JXTA Version 2.7, JDK Version 1.6.0_05, NetBeans IDE Version 7.1.1, BouncyCastle Version 1.47
  * 
@@ -36,10 +36,9 @@ public class Kb00m {
     public final static String APP_NAME = "KB00m";
     public final static String APP_DESC = "Search, Chat, Share... change the World!!";
     public final static String APP_ICON = "logo.png";
-    public final static String APP_URL = "http://localhost:8888/b00m/java/";
+    public final static String APP_URL = "http://localhost/b00m/java/";
     public final static String APP_URL_JAR = APP_URL+"Kb00m.jar";
-//    public final static String APP_NODES = "http://nodes.certiwise.com/register.php";
-    public final static String APP_NODES = "http://nodes.certiwise.local:8888/register.php";
+    public final static String APP_NODES = "http://nodes.certiwise.com/register.php";
     public final static String OS_FILE_SEPARATOR = System.getProperty("file.separator");
     public final static String OS_NAME = System.getProperty("os.name").toLowerCase(); //Detect OS we're working on
     public final static String DELETE = "Delete";

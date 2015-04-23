@@ -20,7 +20,7 @@ package kb00m;
  * Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, 
  * MA  02111-1307, USA.
  * 
- * Author      : benoit Malchrowicz
+ * Author      : Ben Mz
  * Contact Mail: bmz at certiwise dot com
  * Softwares   : JXTA Version 2.7, JDK Version 1.6.0_05, NetBeans IDE Version 7.1.1, BouncyCastle Version 1.47
  * 
